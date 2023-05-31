@@ -1,0 +1,58 @@
+.body{
+    margin: 0;
+    padding: 0;
+    background-color: darkorchid !important;
+    overflow-y: hidden;
+}
+
+.html{
+
+    margin: 0;
+    padding: 0;
+}
+
+
+.bg-container{
+
+    height: 100vh;
+    padding: 24px;
+    /* background-color: darkorchid; */
+}
+
+.search-style{
+    width: 50%;
+    border-radius: 12px;
+    padding: 12px;
+}
+
+
+
+.wiki-image{
+
+    width: 150px; 
+    height: 150px  
+
+}
+
+.result-item {
+    margin-top: 20px;
+  }
+
+.result-title{
+    font-size: 24px;
+    color: black;
+}
+
+.result-url{
+
+    color: black;
+}
+
+.centering-text{
+    text-align: center;
+}
+
+#searchResultsId{
+    max-height: 400px;
+    /* overflow-y: auto; */
+}
